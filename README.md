@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @przemekgrzesiak91
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
 - 📫 How to reach me -> przemek.grzesiak91@gmail.com
 
 <!---
