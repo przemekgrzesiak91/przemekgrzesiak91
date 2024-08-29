@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @przemekgrzesiak91
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, Data Science
+- 💼 Currently working as Data Manager in Saving Kids with Cancer Foundations
 - 📫 How to reach me -> przemek.grzesiak91@gmail.com
 
 <!---
